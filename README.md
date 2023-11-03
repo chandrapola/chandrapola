@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandrapola
 - 👀 I’m a Devloper
 - 🌱 I know Python,Java,Go,Shell,Perl
-- 💞️ I’m looking to collaborate on some interesting Development Projects
+- 💞️ I’m interested to collaborate on Development Projects
 - 📫 How to reach me chandraspola@outlook.com
 
 <!---
