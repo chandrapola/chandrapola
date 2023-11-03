@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandrapola
-- 👀 I’m interested in Testing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Test Automation
+- 👀 I’m a Devloper
+- 🌱 I know Python,Java,Go,Shell,Perl
+- 💞️ I’m looking to collaborate on some interesting Development Projects
 - 📫 How to reach me chandraspola@outlook.com
 
 <!---
