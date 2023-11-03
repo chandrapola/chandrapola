@@ -2,7 +2,7 @@
 - 👀 I’m a Developer
 - 🌱 I have experience working in Python,Java,Go,Shell,Perl Programming Languages
 - 🌱 I have expereince working in SaaS environments
-- 💞️ I’m interested to collaborate on Development Projects
+- 💞️ I’m interested to collaborate on Development Projects from scratch
 - 📫 How to reach me chandraspola@outlook.com
 
 <!---
